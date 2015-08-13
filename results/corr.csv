@@ -1,0 +1,48 @@
+Feature,Correlation,Probability of uncorellated data getting correlation
+('statement', 'condition'),0.062272,0.000085
+('comment', 'concession'),0.047295,0.002848
+list,-0.033689,0.033609
+('cause', 'cause'),0.048900,0.002035
+('result', 'explanation'),0.067721,0.000019
+('contrast', 'contrast'),0.037712,0.017377
+('list', 'explanation'),-0.032778,0.038711
+('concession', 'purpose'),0.035219,0.026332
+('contrast', 'comment'),0.045266,0.004296
+('summary', 'means'),0.067721,0.000019
+('condition', 'circumstance'),0.036579,0.021046
+('comparison', 'antithesis'),0.033040,0.037178
+('textualorganization', 'antithesis'),0.035981,0.023243
+circumstance,-0.044820,0.004693
+('manner', 'means'),0.049295,0.001871
+('consequence', 'antithesis'),0.062272,0.000085
+size,-0.038667,0.014731
+statement,0.039046,0.013784
+elaboration,-0.038872,0.014211
+explanation,-0.032465,0.040610
+('condition', 'textualorganization'),0.031768,0.045119
+('elaboration', 'span'),-0.038708,0.014627
+('purpose', 'preference'),0.054362,0.000603
+('means', 'contrast'),0.035400,0.025566
+('statement', 'span'),0.046070,0.003657
+('contrast', 'same'),0.035347,0.025789
+('consequence', 'purpose'),0.052162,0.000998
+('elaboration', 'statement'),0.068413,0.000016
+('explanation', 'result'),0.039306,0.013165
+('question', 'contrast'),0.070900,0.000008
+('antithesis', 'reason'),0.039419,0.012905
+same,-0.031263,0.048650
+('purpose', 'disjunction'),0.043509,0.006059
+('statement', 'elaboration'),0.046451,0.003386
+('span', 'same'),-0.035319,0.025905
+('span', 'span'),-0.036758,0.020426
+sequence,-0.033437,0.034958
+('elaboration', 'elaboration'),-0.038227,0.015902
+('reason', 'textualorganization'),0.036318,0.021983
+('comment', 'means'),0.078953,0.000001
+('reason', 'contrast'),0.037471,0.018107
+('antithesis', 'cause'),0.062296,0.000084
+span,-0.039593,0.012512
+('span', 'circumstance'),-0.040722,0.010209
+('summary', 'restatement'),0.052010,0.001032
+('statement', 'textualorganization'),0.036562,0.021106
+

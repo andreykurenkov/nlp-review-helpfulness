@@ -1,0 +1,58 @@
+Fitting vocabulary with 100000 instances
+Getting test data with 50000 instances
+Baseline trained on 200000 instances has accuracy 0.686880
+Baseline trained on 400000 instances has accuracy 0.754220
+Baseline trained on 600000 instances has accuracy 0.793780
+Baseline trained on 800000 instances has accuracy 0.833800
+Baseline trained on 1000000 instances has accuracy 0.821120
+Baseline trained on 1200000 instances has accuracy 0.862840
+Baseline trained on 1400000 instances has accuracy 0.880540
+Baseline trained on 1600000 instances has accuracy 0.890580
+Baseline trained on 1800000 instances has accuracy 0.900660
+Final learner trained on 2000000 instances has accuracy 0.900660
+
+Fitting vocabulary with 50000 instances
+Getting test data with 50000 instances
+Baseline trained on 100000 instances has accuracy 0.614520
+Baseline trained on 200000 instances has accuracy 0.686880
+Baseline trained on 300000 instances has accuracy 0.733740
+Baseline trained on 400000 instances has accuracy 0.754220
+Baseline trained on 500000 instances has accuracy 0.778220
+Baseline trained on 600000 instances has accuracy 0.793780
+Baseline trained on 700000 instances has accuracy 0.812060
+Baseline trained on 800000 instances has accuracy 0.833800
+Baseline trained on 900000 instances has accuracy 0.842600
+Baseline trained on 1000000 instances has accuracy 0.821120
+Baseline trained on 1100000 instances has accuracy 0.855580
+Baseline trained on 1200000 instances has accuracy 0.862840
+Baseline trained on 1300000 instances has accuracy 0.873180
+Baseline trained on 1400000 instances has accuracy 0.880540
+Baseline trained on 1500000 instances has accuracy 0.888520
+Baseline trained on 1600000 instances has accuracy 0.890580
+Baseline trained on 1700000 instances has accuracy 0.895340
+Baseline trained on 1800000 instances has accuracy 0.900660
+Final learner trained on 2000000 instances has accuracy 0.900660
+
+
+Fitting vocabulary with 10000 instances
+Getting test data with 50000 instances
+Baseline trained on 100000 instances has accuracy 0.575440
+Baseline trained on 200000 instances has accuracy 0.622420
+Baseline trained on 300000 instances has accuracy 0.644480
+Baseline trained on 400000 instances has accuracy 0.650780
+Baseline trained on 500000 instances has accuracy 0.680840
+Baseline trained on 600000 instances has accuracy 0.696440
+Baseline trained on 700000 instances has accuracy 0.705300
+Baseline trained on 800000 instances has accuracy 0.722960
+Baseline trained on 900000 instances has accuracy 0.730960
+Baseline trained on 1000000 instances has accuracy 0.734580
+Baseline trained on 1100000 instances has accuracy 0.755240
+Baseline trained on 1200000 instances has accuracy 0.754940
+Baseline trained on 1300000 instances has accuracy 0.759840
+Baseline trained on 1400000 instances has accuracy 0.771660
+Baseline trained on 1500000 instances has accuracy 0.779340
+Baseline trained on 1600000 instances has accuracy 0.783760
+Baseline trained on 1700000 instances has accuracy 0.725180
+Baseline trained on 1800000 instances has accuracy 0.801560
+Final learner trained on 2000000 instances has accuracy 0.801560
+
